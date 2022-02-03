@@ -19,3 +19,26 @@ body {
 .tamanho4 {
     font-size: 19px;
 }
+
+div .containe {
+    border-style: solid;
+    color: rgb(255, 38, 0);
+}
+div .Meunome {
+    width: 500px;  
+    background-color: blueviolet;
+
+}
+div .Descricao {
+    background-color: chartreuse;
+    position: absolute;
+    top: 200px;
+    left: 270px;
+    width: 400px;
+}
+div .linksinternos {
+    position: absolute;
+    background-color: rgba(66, 66, 65, 0.993);
+    top: 200px;
+    left: 250px;
+}
