@@ -1,0 +1,21 @@
+#meunome {
+    font-family: sans-serif;
+}
+#estilotag {
+    font-style: italic;
+}
+body {
+    background-color: rgb(178, 224, 197);
+}
+.tamanho1 {
+    font-size: 20px;
+}
+.tamanho2 {
+    font-size: 17px;
+}
+.tamanho3 {
+    font-size: 18px;
+}
+.tamanho4 {
+    font-size: 19px;
+}
